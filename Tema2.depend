@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1496086397 source:c:\users\andrei\desktop\tema 2-poo\tema2\main.cpp
+	"Angajat.h"
+	<iostream>
+
+1496087835 source:c:\users\andrei\desktop\tema 2-poo\tema2\src\angajat.cpp
+	"Angajat.h"
+	<string.h>
+
+1496087810 c:\users\andrei\desktop\tema 2-poo\tema2\include\angajat.h
+	<iostream>
+
+1495964466 source:c:\users\user\desktop\tema 2-poo\tema2\main.cpp
+	"Angajat.h"
+	<iostream>
+
+1495965153 c:\users\user\desktop\tema 2-poo\tema2\include\angajat.h
+	<iostream>
+
+1495965133 source:c:\users\user\desktop\tema 2-poo\tema2\src\angajat.cpp
+	"Angajat.h"
+	<string.h>
+
+1496161252 source:c:\users\andrei\desktop\tema2\main.cpp
+	"Angajat.h"
+	<iostream>
+
+1496153334 c:\users\andrei\desktop\tema2\include\angajat.h
+	<iostream>
+
+1496161308 source:c:\users\andrei\desktop\tema2\src\angajat.cpp
+	"Angajat.h"
+	<string.h>
+
+1497535860 source:c:\users\andrei\desktop\ilieconstantinandrei\anul 1 - semestrul 2\programare orientata pe obiecte\tema2\main.cpp
+	"Angajat.h"
+	<iostream>
+
+1503309029 c:\users\andrei\desktop\ilieconstantinandrei\anul 1 - semestrul 2\programare orientata pe obiecte\tema2\include\angajat.h
+	<iostream>
+
+1497512925 source:c:\users\andrei\desktop\ilieconstantinandrei\anul 1 - semestrul 2\programare orientata pe obiecte\tema2\src\angajat.cpp
+	"Angajat.h"
+	<string.h>
+
+1497535860 source:c:\users\andrei.desktop-4nj2lrv\desktop\ilieconstantinandrei\anul 1 - semestrul 2\programare orientata pe obiecte\tema2\main.cpp
+	"Angajat.h"
+	<iostream>
+
+1503309029 c:\users\andrei.desktop-4nj2lrv\desktop\ilieconstantinandrei\anul 1 - semestrul 2\programare orientata pe obiecte\tema2\include\angajat.h
+	<iostream>
+
